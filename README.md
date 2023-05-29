@@ -1,7 +1,7 @@
 
 ---
 
-# CAT_AI (CAI AI)
+# CAT_AI 
 
 CAT_AI (CAI AI) is an AI-powered chatbot developed to provide conversational experiences. It utilizes an API to leverage the power of natural language processing and generation.
 
