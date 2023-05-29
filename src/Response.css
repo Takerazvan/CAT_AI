@@ -1,0 +1,43 @@
+.response {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.response-profile {
+  width: 36px;
+  height: 36px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.response-profile img {
+  width: 60%;
+  height: 60%;
+  object-fit: contain;
+}
+
+.response-message {
+  color: #dcdcdc;
+  font-size: 20px;
+  max-width: 100%;
+  overflow-x: scroll;
+  white-space: pre-wrap;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.response-message::-webkit-scrollbar {
+  display: none;
+}
+
+.user .response-profile {
+  background: #5436DA;
+}
+
+.ai .response-profile {
+  background: #10a37f;
+}
