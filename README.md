@@ -12,6 +12,12 @@ CAT_AI (CAI AI) is an AI-powered chatbot developed to provide conversational exp
 - Customizable interactions: Tailor the behavior and responses of CAT_AI to suit your specific use cases.
 - Integration-friendly: Seamlessly integrate CAT_AI into your applications, platforms, or chat systems.
 
+
+
+![@Prozar Logo](blob:https://imgur.com/2a2a2189-fde9-4541-a5f7-d18579855a8c)
+
+
+
 ## Getting Started
 
 To get started with CAT_AI, follow these steps:
