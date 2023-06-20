@@ -14,8 +14,8 @@ CAT_AI (CAI AI) is an AI-powered chatbot developed to provide conversational exp
 
 
 
-![@Prozar Logo](blob:https://imgur.com/2a2a2189-fde9-4541-a5f7-d18579855a8c)
-
+![CAT_AI Logo](https://i.imgur.com/ChwuaiU.png)
+![CAT_AI Logo](https://i.imgur.com/p6SfawK.png)
 
 
 ## Getting Started
